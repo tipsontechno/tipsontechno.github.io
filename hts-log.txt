@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Sat, 04 Jul 2020 11:55:32 at http://localhost:8888/tipsfortechno
+(winhttrack http://localhost:8888/tipsfortechno -W -O "/Users/srikanth/websites/tipsontechno" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:56:30	Warning: 	Moved Permanently for localhost:8888/tipsfortechno/?p=2
+11:56:30	Warning: 	File has moved from localhost:8888/tipsfortechno/?p=2 to http://localhost:8888/tipsfortechno/sample-page/
+11:56:30	Error: 	"Method Not Allowed" (405) at link localhost:8888/tipsfortechno/xmlrpc.php (from localhost:8888/tipsfortechno/sample-page/)
+11:56:30	Warning: 	Found for localhost:8888/tipsfortechno/wp-admin/
+11:56:30	Warning: 	File has moved from localhost:8888/tipsfortechno/wp-admin/ to http://localhost:8888/tipsfortechno/wp-login.php?redirect_to=http%3A%2F%2Flocalhost%3A8888%2Ftipsfortechno%2Fwp-admin%2F&reauth=1
+11:56:31	Warning: 	Moved Permanently for localhost:8888/tipsfortechno/?p=1
+11:56:31	Warning: 	File has moved from localhost:8888/tipsfortechno/?p=1 to http://localhost:8888/tipsfortechno/2020/07/03/hello-world/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 6 seconds : 60 links scanned, 55 files written (1334296 bytes overall) [1365589 bytes received at 20690 bytes/sec], 3.0 requests per connection
+(1 errors, 6 warnings, 0 messages)
