@@ -4,31 +4,15 @@ title:  "Why Hexagonal Architecture"
 categories: Architecture-Design
 tags: Hexagonal
 ---
-Jekyll uses Rouge by default for syntax highlighting, here are some tests.
 
-Ruby:
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In this presentation, We will explore compulsive reasons for adapting to Hexagonal Architecture for your microservices
 
-Python with line numbers:
-{% highlight python linenos %}
-def print_hi(name):
-    print("Hi, {}".format(name))
 
-print_hi('Tom')
-# prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 
-C with line numbers:
-{% highlight c linenos %}
-void print_hi(string name) {
-  printf("Hi, %s", name);
-}
-print_hi("Tom");
-/* prints 'Hi, Tom' to STDOUT. */
-{% endhighlight %}
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSy6ZkhcrxsJrpcsGzmD5ro4D62Ud18rjrmIEx2omICmOEz0vLXm7q4QRk_kTz2vihU092nVM_HVnwE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</div>
